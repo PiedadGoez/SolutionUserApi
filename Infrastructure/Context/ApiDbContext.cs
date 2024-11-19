@@ -20,7 +20,7 @@ namespace Infrastructure.Context
             {
                 entity.Property(e => e.FirstName).IsRequired().HasMaxLength(50);
                 entity.Property(e => e.LastName).IsRequired().HasMaxLength(50);
-                entity.Property(e => e.Salary).IsRequired();
+                entity.Property(e => e.Salary).HasColumnType("decimal(18,2)").IsRequired();
             });
         }
     }
