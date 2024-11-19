@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Piedad\\Api\\SolutionUserApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|c:\\piedad\\api\\solutionuserapi\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|c:\\piedad\\api\\solutionuserapi\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF7D8F8-4010-4846-8443-01282018CD75}|Domain\\Domain.csproj|c:\\piedad\\api\\solutionuserapi\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF7D8F8-4010-4846-8443-01282018CD75}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|c:\\piedad\\api\\solutionuserapi\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\handler\\createusercommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\handler\\createusercommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|c:\\piedad\\api\\solutionuserapi\\infrastructure\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF7D8F8-4010-4846-8443-01282018CD75}|Domain\\Domain.csproj|c:\\piedad\\api\\solutionuserapi\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF7D8F8-4010-4846-8443-01282018CD75}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Context\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApiDbContext.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Context\\ApiDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ApiDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:40:36.876Z",
+              "WhenOpened": "2024-11-19T15:11:56.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateUserCommandHandler .cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\CreateUserCommandHandler .cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Handler\\CreateUserCommandHandler .cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\CreateUserCommandHandler .cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Handler\\CreateUserCommandHandler .cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:56:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Command\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Command\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:48:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T14:41:15.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T14:40:12.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Application\\Class1.cs",
-              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Class1.cs",
-              "RelativeToolTip": "Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:37:20.263Z",
+              "WhenOpened": "2024-11-19T14:40:36.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T14:41:45.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:00:41.526Z",
               "EditorCaption": ""
             }
           ]

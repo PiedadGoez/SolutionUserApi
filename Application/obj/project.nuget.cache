@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ngTfkqLq/zo=",
+  "dgSpecHash": "KIeY/A9pByM=",
   "success": true,
   "projectFilePath": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentina R\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Valentina R\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Valentina R\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

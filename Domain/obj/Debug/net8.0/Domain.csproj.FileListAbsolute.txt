@@ -1,0 +1,12 @@
+C:\Piedad\Api\SolutionUserApi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Piedad\Api\SolutionUserApi\Domain\bin\Debug\net8.0\Domain.dll
+C:\Piedad\Api\SolutionUserApi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\Domain.dll
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Piedad\Api\SolutionUserApi\Domain\obj\Debug\net8.0\ref\Domain.dll
