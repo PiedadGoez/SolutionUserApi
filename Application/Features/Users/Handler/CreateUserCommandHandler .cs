@@ -22,6 +22,10 @@ namespace Application.Features.Users.Handler
 
         public async Task<Guid> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
+            if (request.Salary <= 0)
+            {
+                throw new ArgumentException("El sueldo no puede ser 0.");
+            }
             var user = new User
             {
                 Id = Guid.NewGuid(),
@@ -38,5 +42,7 @@ namespace Application.Features.Users.Handler
             await _userRepository.AddAsync(user, cancellationToken);
             return user.Id;
         }
+
+
     }
 }

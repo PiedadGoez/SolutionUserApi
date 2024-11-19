@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Piedad\\Api\\SolutionUserApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\queries\\getuserbyfilterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\queries\\getuserbyfilterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AD77647-0922-4CCE-B88B-14398D86B935}|TestProject\\TestProject.csproj|c:\\piedad\\api\\solutionuserapi\\testproject\\application\\features\\users\\queries\\getuserbyfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD77647-0922-4CCE-B88B-14398D86B935}|TestProject\\TestProject.csproj|solutionrelative:testproject\\application\\features\\users\\queries\\getuserbyfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\handler\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\handler\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AD77647-0922-4CCE-B88B-14398D86B935}|TestProject\\TestProject.csproj|c:\\piedad\\api\\solutionuserapi\\testproject\\application\\features\\users\\commands\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD77647-0922-4CCE-B88B-14398D86B935}|TestProject\\TestProject.csproj|solutionrelative:testproject\\application\\features\\users\\commands\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\handler\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\handler\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\queries\\getuserbyidqueryhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\queries\\getuserbyidqueryhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\queries\\getuserbyfilterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\queries\\getuserbyfilterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD77647-0922-4CCE-B88B-14398D86B935}|TestProject\\TestProject.csproj|c:\\piedad\\api\\solutionuserapi\\testproject\\application\\features\\users\\commands\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD77647-0922-4CCE-B88B-14398D86B935}|TestProject\\TestProject.csproj|solutionrelative:testproject\\application\\features\\users\\commands\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\command\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\command\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\handler\\createusercommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\handler\\createusercommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\handler\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\handler\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{724BCF37-CC75-4AC5-B0EF-76FD2A7A7C59}|Infrastructure\\Infrastructure.csproj|c:\\piedad\\api\\solutionuserapi\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,22 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2BFC8A69-61E7-4810-BB6B-BBC89B84FF92}|UserApi\\UserApi.csproj|c:\\piedad\\api\\solutionuserapi\\userapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BFC8A69-61E7-4810-BB6B-BBC89B84FF92}|UserApi\\UserApi.csproj|solutionrelative:userapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\handler\\createusercommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\handler\\createusercommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\command\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\command\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\features\\users\\queries\\getuserbyidqueryhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|solutionrelative:application\\features\\users\\queries\\getuserbyidqueryhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{007623BD-8FE6-48AE-BB26-F457015A36BB}|Application\\Application.csproj|c:\\piedad\\api\\solutionuserapi\\application\\common\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,23 +78,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetUserByFilter.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\TestProject\\Application\\Features\\Users\\Queries\\GetUserByFilter.cs",
+              "RelativeDocumentMoniker": "TestProject\\Application\\Features\\Users\\Queries\\GetUserByFilter.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\TestProject\\Application\\Features\\Users\\Queries\\GetUserByFilter.cs",
+              "RelativeToolTip": "TestProject\\Application\\Features\\Users\\Queries\\GetUserByFilter.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwE4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:31:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\TestProject\\Application\\Features\\Users\\Commands\\UpdateUserHandler.cs",
+              "RelativeDocumentMoniker": "TestProject\\Application\\Features\\Users\\Commands\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\TestProject\\Application\\Features\\Users\\Commands\\UpdateUserHandler.cs",
+              "RelativeToolTip": "TestProject\\Application\\Features\\Users\\Commands\\UpdateUserHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:17:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\TestProject\\Application\\Features\\Users\\Commands\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "TestProject\\Application\\Features\\Users\\Commands\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\TestProject\\Application\\Features\\Users\\Commands\\CreateUserHandler.cs",
+              "RelativeToolTip": "TestProject\\Application\\Features\\Users\\Commands\\CreateUserHandler.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:48:11.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Handler\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Handler\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:52:15.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetUserByFilterHandler.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Queries\\GetUserByFilterHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Queries\\GetUserByFilterHandler.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Queries\\GetUserByFilterHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Queries\\GetUserByFilterHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:19:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserByIdQueryHandler .cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Queries\\GetUserByIdQueryHandler .cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Queries\\GetUserByIdQueryHandler .cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Queries\\GetUserByIdQueryHandler .cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Queries\\GetUserByIdQueryHandler .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:56:14.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Command\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\UpdateUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Command\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:25:28.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CreateUserCommandHandler .cs",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\CreateUserCommandHandler .cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Handler\\CreateUserCommandHandler .cs",
               "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\CreateUserCommandHandler .cs",
               "RelativeToolTip": "Application\\Features\\Users\\Handler\\CreateUserCommandHandler .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:56:47.515Z"
+              "WhenOpened": "2024-11-19T14:56:47.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Command\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Command\\CreateUserCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:48:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\UserApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "UserApi\\Controllers\\UsersController.cs",
@@ -95,119 +212,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\UpdateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Handler\\UpdateUserCommandHandler.cs",
-              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\UpdateUserCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Handler\\UpdateUserCommandHandler.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wCAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:52:15.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetUserByIdQueryHandler .cs",
-              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Queries\\GetUserByIdQueryHandler .cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Queries\\GetUserByIdQueryHandler .cs",
-              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Queries\\GetUserByIdQueryHandler .cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Queries\\GetUserByIdQueryHandler .cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:56:14.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "DeleteUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\DeleteUserCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Handler\\DeleteUserCommandHandler.cs",
               "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Handler\\DeleteUserCommandHandler.cs",
               "RelativeToolTip": "Application\\Features\\Users\\Handler\\DeleteUserCommandHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T19:04:03.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetUserByFilterHandler.cs",
-              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Queries\\GetUserByFilterHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Queries\\GetUserByFilterHandler.cs",
-              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Queries\\GetUserByFilterHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Queries\\GetUserByFilterHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBMAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:19:35.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvyIAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCIAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T14:40:36.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Command\\CreateUserCommand.cs",
-              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\CreateUserCommand.cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Command\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:48:15.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateUserCommand.cs",
-              "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\UpdateUserCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Command\\UpdateUserCommand.cs",
-              "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Features\\Users\\Command\\UpdateUserCommand.cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Command\\UpdateUserCommand.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:25:28.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
               "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Application.csproj",
               "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T14:41:15.542Z"
+              "WhenOpened": "2024-11-19T14:41:15.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Pagination.cs",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Common\\Pagination.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Pagination.cs",
               "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Application\\Common\\Pagination.cs",
               "RelativeToolTip": "Application\\Common\\Pagination.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:33:39.682Z"
+              "WhenOpened": "2024-11-19T17:33:39.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ApiDbContext.cs",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Infrastructure\\Context\\ApiDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Context\\ApiDbContext.cs",
@@ -215,31 +272,34 @@
               "RelativeToolTip": "Infrastructure\\Context\\ApiDbContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAkwBIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T15:11:56.735Z"
+              "WhenOpened": "2024-11-19T15:11:56.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\UserApi\\Program.cs",
               "RelativeDocumentMoniker": "UserApi\\Program.cs",
               "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\UserApi\\Program.cs",
               "RelativeToolTip": "UserApi\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIBJwBcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBZwBcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T15:19:42.984Z"
+              "WhenOpened": "2024-11-19T15:19:42.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Piedad\\Api\\SolutionUserApi\\Domain\\User.cs",
               "RelativeDocumentMoniker": "Domain\\User.cs",
               "ToolTip": "C:\\Piedad\\Api\\SolutionUserApi\\Domain\\User.cs",
               "RelativeToolTip": "Domain\\User.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:40:12.901Z"
+              "WhenOpened": "2024-11-19T14:40:12.901Z",
+              "EditorCaption": ""
             }
           ]
         }
